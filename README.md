@@ -11,3 +11,15 @@ The file comes as .dxf which I think is for laser cutting from carbon fiber, thi
 1. Open 2020_BOTTOM.step in [Onshape](https://www.onshape.com/en/), this product is much easier for my simple brain
 1. My 3D printer is a K1C with a max print volumn of 220x220x250, so I [chopped off each side by 3.05mm to make it fit](https://cad.onshape.com/documents/10d304fa08ec89b5c3c82cf4/w/95be4216cc5ec3a5ac78ad2f/e/0e5da90423fec7daeeb563ab), I dont think this was smart in terms of design but Ive done dumber things in my time on earth
 1. Export as splash bottom.stl and print, the only setting I changed was the wall loops/count = 7
+
+## DuctSMA
+
+I think the kit prints these with TPU but Ive never tried soft plastic so instead I just rolled with PETG. I needed to use a mirror feature in the slicer to make this work, the helpful dudes at [jacks 3d printing](https://www.facebook.com/groups/315905552404441) explained this to me
+
+1. Open DuctSMA.STL on your slicer, I used Creality Print 6.0 and rotate it flat with the bottom of the circles on the flat side
+1. Mirror -> Along X Axis, this moves the center holes on that axis
+1. OPen a second DuctSMA.STL on the same bed, rotate flat and then rotate so the parts face each other
+1. The center notches now match up
+1. Print with standard settings but with 10% infil with grid pattern
+
+![DuctSMA slicer](./DuctSMA.jpg)
