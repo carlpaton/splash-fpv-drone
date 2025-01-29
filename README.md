@@ -10,7 +10,7 @@ The file comes as .dxf which I think is for laser cutting from carbon fiber, thi
 1. Extrude the main shape by 5mm and export as 2020_BOTTOM.step
 1. Open 2020_BOTTOM.step in [Onshape](https://www.onshape.com/en/), this product is much easier for my simple brain
 1. My 3D printer is a K1C with a max print volumn of 220x220x250, so I [chopped off each side by 3.05mm to make it fit](https://cad.onshape.com/documents/10d304fa08ec89b5c3c82cf4/w/95be4216cc5ec3a5ac78ad2f/e/0e5da90423fec7daeeb563ab), I dont think this was smart in terms of design but Ive done dumber things in my time on earth
-1. Export as splash bottom.stl and print, the only setting I changed was the wall loops/count = 7
+1. Export as `splash bottom.stl` and print, the only setting I changed was the wall loops/count = 7
 
 ## DuctSMA
 
@@ -23,3 +23,9 @@ I think the kit prints these with TPU but Ive never tried soft plastic so instea
 1. Print with standard settings but with 10% infil with grid pattern
 
 ![DuctSMA slicer](./DuctSMA.jpg)
+
+## 2020_TOP
+
+Same as 2020_BOTTOM except I used 2mm thickness and removed 3mm from either side, my [onshape doc is here](https://cad.onshape.com/documents/a7605b4517a8a1863d6d50e7/w/2daf4fa2031e767b9879f13f/e/a5c888149138a796a213c25a)
+
+The resulting stl is `splash top.stl`
