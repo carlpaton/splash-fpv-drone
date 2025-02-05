@@ -16,6 +16,7 @@ The file comes as .dxf which I think is for laser cutting from carbon fiber, thi
 
 The hole pattern in the splash is `8x8mm` but the cheap [iFlight 2207 2750kv](https://www.quadjunkie.co.nz/product/iflight-xing-e-pro-2207-2-6s-fpv-motor/) motors I found from my local hobby shop are `10x10m` so I adapted the design in onshape, same link as above.
 
+1. The orginal I printed was `5mm`, this one I tried as `3mm`
 1. Print `splash bottom v2.stl` with wall loops/count = 7
 
 ## DuctSMA
