@@ -12,6 +12,12 @@ The file comes as .dxf which I think is for laser cutting from carbon fiber, thi
 1. My 3D printer is a K1C with a max print volumn of 220x220x250, so I [chopped off each side by 3.05mm to make it fit](https://cad.onshape.com/documents/10d304fa08ec89b5c3c82cf4/w/95be4216cc5ec3a5ac78ad2f/e/0e5da90423fec7daeeb563ab), I dont think this was smart in terms of design but Ive done dumber things in my time on earth
 1. Export as `splash bottom.stl` and print, the only setting I changed was the wall loops/count = 7
 
+### Bottom v2
+
+The hole pattern in the splash is `8x8mm` but the cheap [iFlight 2207 2750kv](https://www.quadjunkie.co.nz/product/iflight-xing-e-pro-2207-2-6s-fpv-motor/) motors I found from my local hobby shop are `10x10m` so I adapted the design in onshape, same link as above.
+
+1. Print `splash bottom v2.stl` with wall loops/count = 7
+
 ## DuctSMA
 
 I think the kit prints these with TPU but Ive never tried soft plastic so instead I just rolled with PETG. I needed to use a mirror feature in the slicer to make this work, the helpful dudes at [jacks 3d printing](https://www.facebook.com/groups/315905552404441) explained this to me
