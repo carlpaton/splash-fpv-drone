@@ -25,7 +25,7 @@ I think the kit prints these with TPU but Ive never tried soft plastic so instea
 
 1. Open DuctSMA.STL on your slicer, I used Creality Print 6.0 and rotate it flat with the bottom of the circles on the flat side
 1. Mirror -> Along X Axis, this moves the center holes on that axis
-1. OPen a second DuctSMA.STL on the same bed, rotate flat and then rotate so the parts face each other
+1. Open a second DuctSMA.STL on the same bed, rotate flat and then rotate so the parts face each other
 1. The center notches now match up
 1. Print with standard settings but with 10% infil with grid pattern
 
@@ -33,6 +33,6 @@ I think the kit prints these with TPU but Ive never tried soft plastic so instea
 
 ## 2020_TOP
 
-Same as 2020_BOTTOM except I used 2mm thickness and removed 3mm from either side, my [onshape doc is here](https://cad.onshape.com/documents/a7605b4517a8a1863d6d50e7/w/2daf4fa2031e767b9879f13f/e/a5c888149138a796a213c25a)
+Same as 2020_BOTTOM except I used 2mm thickness and removed 3mm from either side the same as the top, this was to fit in the printer, my [onshape doc is here](https://cad.onshape.com/documents/a7605b4517a8a1863d6d50e7/w/2daf4fa2031e767b9879f13f/e/a5c888149138a796a213c25a)
 
 The resulting stl is `splash top.stl`
