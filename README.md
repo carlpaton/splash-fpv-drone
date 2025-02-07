@@ -1,5 +1,7 @@
 # Splash FPV Drone
 
+![3D Printed](./3d-print.jpg)
+
 These files orginally came from [jacks3dprinting](https://www.thingiverse.com/thing:4741274/files), check out the facebook group [jacks 3d printing](https://www.facebook.com/groups/315905552404441)
 
 ## 2020_BOTTOM
