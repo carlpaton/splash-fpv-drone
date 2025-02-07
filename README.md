@@ -4,7 +4,7 @@ These files orginally came from [jacks3dprinting](https://www.thingiverse.com/th
 
 ## 2020_BOTTOM
 
-The file comes as .dxf which I think is for laser cutting from carbon fiber, this is what the kit comes with from my [local hobby shop](https://www.quadjunkie.co.nz/product/splash-cinewhoops-from-jacks-3d/). Although I have my doubts about rigidity and actually flying I figured I'd 3D print the whole drone from PETG and see what happens. This was how I converted the files
+The file comes as .dxf which I think is for CNC cutting from carbon fiber, this is what the kit comes with from my [local hobby shop](https://www.quadjunkie.co.nz/product/splash-cinewhoops-from-jacks-3d/). Although I have my doubts about rigidity and actually flying I figured I'd 3D print the whole drone from PETG and see what happens. This was how I converted the files
 
 1. Open 2020_BOTTOM.dxf in [Fusion 360](https://www.autodesk.com/products/fusion-360/), I use their Education License but the product is too complicated for me
 1. Extrude the main shape by 5mm and export as 2020_BOTTOM.step
